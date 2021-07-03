@@ -1,4 +1,3 @@
-# simple_blockchain
 
 
 # Block 区块
